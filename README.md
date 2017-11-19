@@ -1,1 +1,1 @@
-# ear_recognition
+Ear Recognition
